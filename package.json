@@ -1,0 +1,22 @@
+{
+  "name": "js-number-to-words",
+  "version": "0.1.0",
+  "description": "Convert Numbers to words in js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node test.js"
+  },
+  "keywords": [
+    "number",
+    "word",
+    "numbers",
+    "to",
+    "words",
+    "number-to-word",
+    "number-to-words",
+    "numbers-to-words"
+  ],
+  "author": "Battosuai",
+  "license": "ISC"
+}
